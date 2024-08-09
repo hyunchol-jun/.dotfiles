@@ -1,5 +1,5 @@
 # My dotfiles
-This repo contains the new dotfiles for my system. hi
+This repo contains the new dotfiles for my system.
 
 ## Requirements
 Ensure you have the following installed.
